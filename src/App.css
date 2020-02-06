@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+h1, h2, p {
+  font-family: 'Montserrat';
+}
+
+h1 {
+  font-size: 2.8em;
+  color: #eee;
+  margin-top: 0;
+}
